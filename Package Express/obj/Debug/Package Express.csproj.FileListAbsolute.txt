@@ -1,0 +1,7 @@
+C:\Users\zezoz\source\repos\Package Express\Package Express\bin\Debug\Package Express.exe.config
+C:\Users\zezoz\source\repos\Package Express\Package Express\bin\Debug\Package Express.exe
+C:\Users\zezoz\source\repos\Package Express\Package Express\bin\Debug\Package Express.pdb
+C:\Users\zezoz\source\repos\Package Express\Package Express\obj\Debug\Package Express.csproj.AssemblyReference.cache
+C:\Users\zezoz\source\repos\Package Express\Package Express\obj\Debug\Package Express.csproj.CoreCompileInputs.cache
+C:\Users\zezoz\source\repos\Package Express\Package Express\obj\Debug\Package Express.exe
+C:\Users\zezoz\source\repos\Package Express\Package Express\obj\Debug\Package Express.pdb
